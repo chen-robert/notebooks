@@ -1,0 +1,4 @@
+tmp/
+data/
+.ipynb_checkpoints/
+MNIST_data/
